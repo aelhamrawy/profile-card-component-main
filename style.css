@@ -26,8 +26,7 @@ main {
   background-image: url("./images/bg-pattern-top.svg"),
     url("./images/bg-pattern-bottom.svg");
   background-repeat: no-repeat, no-repeat;
-  background-position: -18vw -37vh, 50vw 50vh;
-  background-size: contain;
+  background-position: right 51vw bottom 40vh, left 50vw top 50vh;
   display: flex;
   justify-content: center;
   align-items: center;
